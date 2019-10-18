@@ -153,7 +153,7 @@ To create a Power BI Dashboard follow these steps. For additional help see [here
 
 * Login into [Power Bi Portal](https://app.powerbi.com/home)
 * Under your Workspace create a new streaming dataset and select API
-* Add a name and fields to the data set as below:
+* Add a name and fields to the dataset as below:
 
 ![Streaming dataset](images/pbi-ds1.png)
 
