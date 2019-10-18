@@ -1,4 +1,4 @@
-# IoT Integration To Azure Power Bi Demo
+# IoT Integration With Solace To Azure Power Bi Demo
 
 This demo can be used to show IoT integration using Solace to Azure Power BI. 
 
